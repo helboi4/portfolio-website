@@ -1,6 +1,12 @@
 export default [
     {
-        year:"Current",
+        year:"2023-2025"
+        title: "Junior Software Developer",
+        duration: "2 years",
+        details: "Regularly shipping features to an application used by top international clients in the music industry, using Java, Spring Boot, Elasticsearch, TypeScript, Angular, AWS and Jenkins. \n Main achievements: Completing an app rewrite that was estimated to take a year in  < 6 months (doubling productivity).  Creating a package for testing PDF formatting that was requested to present to other teams."
+    }
+    {
+        year:"2022-2023",
         title: "Associate software engineer - Bright Network/Marks and Spencers, London",
         duration: "1 year",
         details: "Responsibilities: Building and testing Java, Spring Boot, MongoDB stack applications and deploying to Azure for Marks and Spencer’s loyalty services. Working in a team with Agile scrum principles using Jira. \n \n Achievement: Improved the speed of regressions for my team's flagship application from days to minutes through automation. Advised other members of my team on how to do automation, leading to completion in half the time. Integrated this into Azure pipelines. \n  \n Served one quarter as Bright Network Tech Academy’s recruitment committee lead, helping to welcome in new students to the bootcamp. Currently am head of the Learning and Development committee, working on a career advice podcast."
