@@ -4,7 +4,7 @@ export default [
         title: "Junior Software Developer",
         duration: "2 years",
         details: "Regularly shipping features to an application used by top international clients in the music industry, using Java, Spring Boot, Elasticsearch, TypeScript, Angular, AWS and Jenkins. \n Main achievements: Completing an app rewrite that was estimated to take a year in  < 6 months (doubling productivity).  Creating a package for testing PDF formatting that was requested to present to other teams."
-    }
+    },
     {
         year:"2022-2023",
         title: "Associate software engineer - Bright Network/Marks and Spencers, London",
